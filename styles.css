@@ -8,11 +8,15 @@ body{
 	border-radius:5px;
 	display:inline-block;
 }
-#Author{
+#color_author{
 	background-color:rgb(119, 119, 119);
+	color:white;
 	display:inline;
 }
-#Price-block{
+#price_background{
 	background-color:rgb(46, 204, 113);
+	border:1px solid black;
+	border-radius:5px;
 	text-align:center;
+	color:rgb(255, 255, 255);
 }
