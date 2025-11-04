@@ -8,10 +8,9 @@ body{
 	border-radius:5px;
 	display:inline-block;
 }
-#color_author{
-	background-color:rgb(119, 119, 119);
-	color:white;
-	display:inline;
+#color_author {
+  color: rgb(119, 119, 119);
+  background-color: white;
 }
 #price_background{
 	background-color:rgb(46, 204, 113);
